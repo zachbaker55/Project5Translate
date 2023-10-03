@@ -21,7 +21,7 @@ MLKit - https://developers.google.com/ml-kit
 
 Link to walkthrough of the calculator:
 
-https://github.com/zachbaker55/Project5Translate/blob/project4/QuizDemo2.gif
+https://github.com/zachbaker55/Project5Translate/blob/master/TranslateDemo.gif
 
 GIF created with [ScreenToGif].
 
